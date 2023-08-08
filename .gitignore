@@ -1,3 +1,6 @@
+# Ignore env_vars.sh file
+env_vars.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
